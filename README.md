@@ -50,7 +50,7 @@ When a card is moved to one of the phases marked as such, the card should automa
  and forth between the phases.
  Completed cards should be visually distinct from non-completed cards.
 
-- Share your project with us by adding us (Github user "hippomundo") as a collaborator 
+- Share your project with us by adding us (Github user "sweetdream34310") as a collaborator 
  to your forked repository, or send us the ZIP file of your project without the vendor or 
  node_modules folders.
 
